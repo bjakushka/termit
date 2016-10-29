@@ -10,7 +10,7 @@ defaults.hideMenubar = true
 defaults.backgroundColor = 'rgba(66, 66, 66, 0.8)'
 defaults.transparentBackground = true
 defaults.transparentSaturation = 0.8
-defaults.colormap = termit.colormaps.delicate
+defaults.colormap = termit.colormaps.tango
 
 
 setOptions(defaults)
